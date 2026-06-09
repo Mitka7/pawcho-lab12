@@ -57,6 +57,9 @@ docker network inspect lab12net
 <img width="638" height="336" alt="image" src="https://github.com/user-attachments/assets/78288349-8368-4dbd-a358-9d4ae83efca0" />
 
 ### Logi zapisują się na dysku hosta 
+<img width="586" height="457" alt="image" src="https://github.com/user-attachments/assets/95d5c276-bb02-4bbe-bbee-dd4160373ef6" />
+
+
 <img width="945" height="822" alt="image" src="https://github.com/user-attachments/assets/5e6d91ec-de74-4259-8123-50ba63b85763" />
 
 

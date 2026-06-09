@@ -6,7 +6,7 @@ docker network create --driver bridge lab12net
 ```
 <img width="916" height="98" alt="image" src="https://github.com/user-attachments/assets/9834b0b3-1ee2-440f-8521-ffdcbf307ce4" />
 
-#### Wykonanie tego polecenia ma na celu utworzenie w środowisku Docker nowej sieci o nazwie lab12net, bazującej na domyślnym sterowniku typu most (bridge). Działanie to bezpośrednio realizuje pierwszy podpunkt zadania obowiązkowego, który wymagał utworzenia i przygotowania sieci mostkowej o nazwie lab12net, do której w kolejnych krokach zostaną podłączone wszystkie trzy serwery.
+#### Wykonanie tego polecenia ma na celu utworzenie nowej sieci o nazwie lab12net, bazującej na domyślnym sterowniku typu most (bridge). Działanie to bezpośrednio realizuje pierwszy podpunkt zadania obowiązkowego, który wymagał utworzenia i przygotowania sieci mostkowej o nazwie lab12net, do której w kolejnych krokach zostaną podłączone wszystkie trzy serwery.
 
 ## Przygotowanie katalogów i strony HTML 
 <img width="439" height="303" alt="image" src="https://github.com/user-attachments/assets/eb3a3e89-90cf-4706-a7b7-2687d35cfaef" />
